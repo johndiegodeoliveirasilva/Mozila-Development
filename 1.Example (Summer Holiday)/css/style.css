@@ -15,18 +15,24 @@ header > h1 {
   margin: 10px 0;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   font-family: "Segoe UI", Arial, sans-serif;
 }
 
 /* Container flex-box */
 .container {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: space-around;
+  margin: 8px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 8px;
 }
 
 .card {
-  width: 200px;
-  height: 200px;
+  background: tomato;
+  flex: 1;
+  height: 150px;
+  box-shadow: 2px 2px 4px rgba(17, 16, 16, 0.5);
 }
