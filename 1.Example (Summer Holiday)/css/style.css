@@ -18,3 +18,10 @@ header > h1 {
 h1, h2, h3, h4 {
   font-family: "Segoe UI", Arial, sans-serif;
 }
+
+/* Container flex-box */
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
