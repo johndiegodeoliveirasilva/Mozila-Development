@@ -42,3 +42,6 @@ h4 {
   height: 200px;
   vertical-align: middle;
 }
+.grid-big > p {
+  text-align: justify;
+}
