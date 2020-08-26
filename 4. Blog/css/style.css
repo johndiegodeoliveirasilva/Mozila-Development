@@ -2,3 +2,17 @@
   box-sizing: border-box;
   margin: 0;
 }
+/* Fonts */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-weight: 400;
+  margin: 10px 0;
+}
+
+.w3-xlarge {
+  font-size: 24px!important;
+}
+
+.w3-jumbo {
+  font-size: 64px!important;
+}
