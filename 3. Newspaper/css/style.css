@@ -56,3 +56,11 @@ h2 {
   clear: both;
   display: table;
 }
+
+/* Media Queries */
+
+@media only screen  and (max-width: 755px ) {
+  .box {
+    width: 100%;
+}
+}
