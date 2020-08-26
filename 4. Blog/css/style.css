@@ -16,3 +16,10 @@ h1, h2, h3, h4, h5, h6 {
 .w3-jumbo {
   font-size: 64px!important;
 }
+
+.header {
+  width: 100%;
+  padding: 15px;
+  text-align: left;
+  background-color: #C9C9C9;
+}
