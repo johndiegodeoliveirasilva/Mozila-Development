@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  box-sizing: content-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+p {
+  font-size: 15px;
+  font-family: Verdana, sans-serif;
+  line-height: 1.5;
+}
+
+.text-jumbo {
+  font-size: 64px !important;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 400px;
+}
