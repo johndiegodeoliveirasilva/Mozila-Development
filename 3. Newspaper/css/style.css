@@ -18,6 +18,7 @@ p {
   font-family: Verdana, sans-serif;
   line-height: 1.5;
   text-align: justify;
+  margin: 20px 0;
 }
 
 .text-jumbo {
@@ -28,7 +29,8 @@ p {
 
 h2 {
   font-size: 30px;
-  font-weight: 400px;
+  font-weight: 400;
+  margin: 10px 0;
 }
 
 /* Header */
@@ -45,6 +47,8 @@ h2 {
   float: left;
   width: 33.33%;
   padding: 0 8px ;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .clearfix::after {
